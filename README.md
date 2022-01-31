@@ -1,5 +1,5 @@
 # instagram-scroller
-A javascript to scroll instagram to the end.
+A javascript to scroll instagram to the end without using mouse.
 
 I have written this Javascript code that will help you in scrolling down without using any keyboard button or mouse scroll and its quite fast.
 
