@@ -4,7 +4,6 @@
 //Open the profile you want to scroll down to the end in your browser.
 
 // Then open inspect element mode (on chrome browser hit ctrl+shift+i to get into inspect mode)
-
 //then click on console tab and paste this code and hit enter
 
 scroll = window.setInterval(function () { window.scrollTo(0, document.body.scrollHeight); }, 1000);
